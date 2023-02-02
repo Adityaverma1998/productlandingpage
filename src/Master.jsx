@@ -1,8 +1,11 @@
 import React from 'react'
+import Pricing from './component/Pricing'
 
 const Master = () => {
   return (
-    <div>Master</div>
+    <>
+    <Pricing/>
+    </>
   )
 }
 
