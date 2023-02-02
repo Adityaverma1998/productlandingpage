@@ -44,7 +44,7 @@ const Pricing = (props) => {
 
        </Box>
       </Box>
-      <Button>Get started</Button>
+      <Button variant='contained' sx={{width:'100%',background:'#C780FA'}}>Get started</Button>
     </Box>
     </>
   )
